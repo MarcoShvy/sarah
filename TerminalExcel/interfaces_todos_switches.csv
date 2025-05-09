@@ -1,0 +1,578 @@
+Port,Name,Status,Vlan,Duplex,Speed,Type
+Switch: 10.1.80.163,,,,,,
+Gi1/0/1, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/2, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/3, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/4, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/5, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/6, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/7, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/8, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/9, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/10, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/11, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/12, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/13, ,err-disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/14, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/15, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/16, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/17, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/18, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/19, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/20, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/21, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/22, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/23, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/24, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/25, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/26, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/27, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/28, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/29, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/30, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/31, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/32, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/33, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/34, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/35, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/36, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/37, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/38, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/39, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/40, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/41,PORTA TESTE,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/42,Porta Teste,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/43, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/44,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/45,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/46,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/47,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/48,AP WIFI,notconnect,1,auto,auto,10/100/1000BaseTX
+Te1/1/1, ,DEFEITO,disabled,1,full,auto
+Te1/1/2, ,UPLINK-LN-R1-LAN-S,connected,trunk,full,10G SFP-10GBase-SR
+Te1/1/3, ,notconnect,1,auto,auto,unknown
+Te1/1/4, ,notconnect,1,auto,auto,unknown
+,,,,,,
+Switch: 10.1.80.161,,,,,,
+Gi1/0/1, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/2, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/3, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/4, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/5, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/6, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/7, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/8, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/9, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/10, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/11, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/12, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/13, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/14, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/15, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/16, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/17, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/18, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/19, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/20, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/21, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/22, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/23, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/24, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/25, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/26, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/27, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/28, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/29, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/30, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/31, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/32, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/33, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/34, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/35, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/36, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/37, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/38, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/39, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/40, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/41, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/42, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/43, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/44, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/45, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/46,PORTA-LIVRE,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/47,PORTA-LIVRE,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/48,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Te1/1/1,UPLINK,connected,trunk,full,10G,SFP-10GBase-SR
+Te1/1/2, ,notconnect,1,auto,auto,unknown
+Te1/1/3, ,notconnect,1,auto,auto,unknown
+Te1/1/4, ,notconnect,1,auto,auto,unknown
+,,,,,,
+Switch: 10.1.80.235,,,,,,
+Gi1/0/1, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/2, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/3, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/4, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/5, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/6, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/7, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/8, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/9, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/10, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/11, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/12, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/13, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/14, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/15, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/16, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/17, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/18, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/19, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/20, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/21, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/22, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/23, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/24, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/25, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/26, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/27, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/28, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/29, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/30, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/31, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/32, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/33, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/34, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/35, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/36, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/37, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/38, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/39, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/40, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/41, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/42, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/43, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/44, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/45, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/46, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/47, ,AP,WIFI-,Nautica,c,connected    trunk      a-full a-1000 10/100/1000BaseTX
+Gi1/0/48,UPLINK,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Te1/1/1, ,notconnect,1,full,10G,SFP-10GBase-SR
+Te1/1/2, ,notconnect,1,auto,auto,unknown
+Te1/1/3, ,notconnect,1,auto,auto,unknown
+Te1/1/4, ,notconnect,1,auto,auto,unknown
+,,,,,,
+Switch: 10.1.80.160,,,,,,
+Gi1/0/1, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/2, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/3, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/4, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/5, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/6, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/7, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/8, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/9, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/10, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/11, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/12, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/13, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/14, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/15, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/16, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/17, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/18,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/19,VOZ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/20,VOZ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/21,VOZ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/22,VOZ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/23,VOZ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/24,PortaLivre,notconnect,1,auto,auto,10/100/1000BaseTX
+Te1/1/1,UPLINK,connected,trunk,full,10G,SFP-10GBase-SR
+Te1/1/2, ,notconnect,1,auto,auto,unknown
+Te1/1/3, ,notconnect,1,auto,auto,unknown
+Te1/1/4, ,notconnect,1,auto,auto,unknown
+,,,,,,
+Switch: 10.1.80.168,,,,,,
+Gi1/0/1, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/2, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/3, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/4, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/5, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/6, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/7, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/8, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/9, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/10, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/11, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/12, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/13, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/14, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/15, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/16, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/17, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/18, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/19, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/20, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/21, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/22,PORTA-LIVRE,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/23,PORTA-LIVRE,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/24,UPLINK,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Te1/1/1, ,notconnect,1,auto,auto,unknown
+Te1/1/2, ,notconnect,1,auto,auto,unknown
+Te1/1/3, ,notconnect,1,auto,auto,unknown
+Te1/1/4, ,notconnect,1,auto,auto,unknown
+,,,,,,
+Switch: 10.1.80.180,,,,,,
+Gi1/0/1, ,CabineIDtrackLavan,connected,10,a-full,a-1000 10/100/1000BaseTX
+Gi1/0/2, ,CabineIDtrackLavan,notconnect,10,auto,auto 10/100/1000BaseTX
+Gi1/0/3, ,CabineIDtrackLavan,notconnect,10,auto,auto 10/100/1000BaseTX
+Gi1/0/4, ,CabineIDtrackLavan,connected,10,a-full,a-1000 10/100/1000BaseTX
+Gi1/0/5, ,CabineIDtrackLavan,connected,10,a-full,a-1000 10/100/1000BaseTX
+Gi1/0/6, ,CabineIDtrackLavan,connected,10,a-full,a-1000 10/100/1000BaseTX
+Gi1/0/7, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/8, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/9, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/10, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/11, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/12, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/13, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/14, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/15, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/16, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/17, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/18, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/19, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/20, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/21,PORTA-TESTE-INF,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/22, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/23, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/24, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/25, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/26, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/27, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/28, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/29, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/30, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/31, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/32, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/33, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/34, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/35, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/36, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/37, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/38, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/39, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/40, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/41, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/42, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/43, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/44,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/45,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/46,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/47,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/48, ,UPLINK-LN-R3-LAN-S,connected,trunk,a-full,a-1000 10/100/1000BaseTX
+Te1/1/1,UPLINK,connected,trunk,full,10G,SFP-10GBase-SR
+Te1/1/2, ,notconnect,1,auto,auto,unknown
+Te1/1/3, ,notconnect,1,auto,auto,unknown
+Te1/1/4, ,notconnect,1,auto,auto,unknown
+,,,,,,
+Switch: 10.1.80.181,,,,,,
+Gi1/0/1, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/2, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/3, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/4, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/5, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/6, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/7, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/8, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/9, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/10, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/11, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/12, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/13, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/14, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/15, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/16, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/17, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/18, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/19, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/20, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/21, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/22, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/23, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/24, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/25, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/26, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/27, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/28, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/29, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/30, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/31, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/32, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/33, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/34, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/35, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/36, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/37, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/38, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/39, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/40, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/41, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/42, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/43, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/44, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/45, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/46, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/47, ,disabled,1,auto,auto,10/100/1000BaseTX
+Te1/0/1, ,notconnect,1,full,10G,SFP-10GBase-SR
+Te1/0/2,notconnect,1,full,10G,Not,Present
+Fa0, ,notconnect,routed,auto,auto,10/100BaseTX
+,,,,,,
+Switch: 10.1.80.177,,,,,,
+Gi1/0/1, ,CabineIDtrackLavan,connected,10,a-full,a-1000 10/100/1000BaseTX
+Gi1/0/2, ,CabineIDtrackLavan,connected,10,a-full,a-1000 10/100/1000BaseTX
+Gi1/0/3, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/4, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/5, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/6, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/7, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/8, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/9, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/10, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/11, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/12, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/13, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/14, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/15, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/16, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/17, ,SMARTLAB-OCULOS3D-,connected,10,a-full,a-1000 10/100/1000BaseTX
+Gi1/0/18, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/19, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/20, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/21, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/22, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/23, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/24, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/25, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/26, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/27, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/28, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/29, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/30, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/31, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/32, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/33, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/34, ,connected,1,a-half,a-10,10/100/1000BaseTX
+Gi1/0/35, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/36, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/37, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/38, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/39, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/40, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/41, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/42, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/43, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/44,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/45,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/46,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/47,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/48, ,UPLINK-LN-R2-LAN-S,connected,trunk,a-full,a-1000 10/100/1000BaseTX
+Te1/1/1,UPLINK,connected,trunk,full,10G,SFP-10GBase-SR
+Te1/1/2, ,notconnect,1,auto,auto,unknown
+Te1/1/3, ,notconnect,1,auto,auto,unknown
+Te1/1/4, ,notconnect,1,auto,auto,unknown
+,,,,,,
+Switch: 10.1.80.178,,,,,,
+Gi1/0/1, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/2, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/3, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/4, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/5, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/6, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/7, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/8, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/9, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/10, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/11, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/12, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/13, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/14, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/15, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/16, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/17, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/18, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/19, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/20, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/21, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/22, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/23, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/24, ,UPLINK,LN-R2-LAN-S,connected,trunk,a-full a-1000 10/100/1000BaseTX
+Te1/1/1,UPLINK,notconnect,1,auto,auto,unknown
+Te1/1/2, ,notconnect,1,auto,auto,unknown
+Te1/1/3, ,notconnect,1,auto,auto,unknown
+Te1/1/4, ,notconnect,1,auto,auto,unknown
+,,,,,,
+Switch: 10.1.80.173,,,,,,
+Gi1/0/1, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/2, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/3, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/4, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/5, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/6, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/7, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/8, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/9, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/10, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/11, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/12, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/13, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/14, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/15, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/16, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/17, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/18, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/19, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/20, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/21, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/22, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/23, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/24, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/25, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/26, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/27, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/28, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/29, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/30, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/31, ,MAQUINAVENDASNACKS,connected,10,a-full,a-1000 10/100/1000BaseTX
+Gi1/0/32, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/33, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/34, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/35, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/36, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/37, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/38, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/39, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/40, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/41, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/42, ,MAQUINAVENDASNACKS,connected,10,a-full,a-1000 10/100/1000BaseTX
+Gi1/0/43, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/44, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/45, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/46, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/47,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/48,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Te1/1/1,UPLINK,notconnect,1,auto,auto,unknown
+Te1/1/2,UPLINK,notconnect,1,auto,auto,unknown
+Te1/1/3,UPLINK,notconnect,1,auto,auto,unknown
+Te1/1/4,UPLINK,connected,trunk,full,10G,SFP-10GBase-SR
+Ap1/0/1,connected,1,a-full,a-1000,App-hosting,port
+,,,,,,
+Switch: 10.1.80.174,,,,,,
+Gi1/0/1, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/2, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/3, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/4, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/5, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/6, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/7, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/8, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/9, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/10, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/11, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/12, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/13, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/14, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/15, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/16, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/17, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/18, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/19, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/20, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/21, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/22, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/23, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/24, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/25, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/26, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/27, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/28, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/29, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/30, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/31, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/32, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/33, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/34, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/35, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/36, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/37, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/38, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/39, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/40, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/41, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/42, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/43, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/44, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/45, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/46, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/47,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/48,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Te1/1/1,UPLINK,notconnect,1,auto,auto,unknown
+Te1/1/2,UPLINK,notconnect,1,auto,auto,unknown
+Te1/1/3,UPLINK,notconnect,1,auto,auto,unknown
+Te1/1/4,UPLINK,connected,trunk,full,10G,SFP-10GBase-SR
+Ap1/0/1,connected,1,a-full,a-1000,App-hosting,port
+,,,,,,
+Switch: 10.1.80.175,,,,,,
+Gi1/0/1, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/2, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/3, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/4, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/5, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/6, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/7, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/8, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/9, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/10, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/11, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/12, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/13, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/14, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/15, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/16, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/17, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/18, ,connected,1,a-full,1000,10/100/1000BaseTX
+Gi1/0/19, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/20, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/21, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/22, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/23, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/24, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/25, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/26, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/27, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/28, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/29, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/30, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/31, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/32, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/33, ,connected,1,a-full,a-10,10/100/1000BaseTX
+Gi1/0/34, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/35, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/36, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/37, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/38, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/39, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/40, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/41, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/42, ,connected,1,a-full,a-100,10/100/1000BaseTX
+Gi1/0/43, ,connected,1,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/44, ,disabled,1,auto,auto,10/100/1000BaseTX
+Gi1/0/45, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/46, ,notconnect,1,auto,auto,10/100/1000BaseTX
+Gi1/0/47,AP WIFI,connected,trunk,a-full,a-1000,10/100/1000BaseTX
+Gi1/0/48,AP WIFI,notconnect,1,auto,auto,10/100/1000BaseTX
+Te1/1/1,UPLINK,notconnect,1,auto,auto,unknown
+Te1/1/2,UPLINK,notconnect,1,auto,auto,unknown
+Te1/1/3,UPLINK,notconnect,1,auto,auto,unknown
+Te1/1/4,UPLINK,connected,trunk,full,10G,SFP-10GBase-SR
+Ap1/0/1,connected,1,a-full,a-1000,App-hosting,port
+,,,,,,
